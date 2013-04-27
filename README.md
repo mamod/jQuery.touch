@@ -2,6 +2,11 @@ jQuery.touch
 ========
 
 A jQuery touch event plugin
+
+DEMO
+====
+
+[jQuery Touch Page](https://dl.dropboxusercontent.com/u/3241507/jTouch/index.html "")
     
 DESCRIPTION
 ===========
